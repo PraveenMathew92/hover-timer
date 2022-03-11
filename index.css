@@ -1,0 +1,15 @@
+.timer {
+    background-color: gray;
+    display: flex;
+    width: 25%;
+}
+
+#reset-button {
+    display: flex;
+
+}
+
+body {
+    display: flex;
+    height: 25%;
+}
